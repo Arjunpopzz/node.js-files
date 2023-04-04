@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mpm.marvel": "^0.0.2",
+    "supervillains": "^3.1.0"
+  }
+}
